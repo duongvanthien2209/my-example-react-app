@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /
+  - source: build
     destination: /var/www/my-example-react-app
 permissions:
   - object: /var/www/my-example-react-app
