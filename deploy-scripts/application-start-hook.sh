@@ -1,3 +1,3 @@
 #!/bin/bash
 
-npm start
+sudo service nginx restart
